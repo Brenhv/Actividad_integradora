@@ -1,4 +1,11 @@
 import streamlit as st
+import subprocess
+
+# Instala librerías adicionales si es necesario
+subprocess.call(['pip', 'install', 'plotly'])
+
+
+import streamlit as st
 import pandas as pd
 import numpy as np
 #import plotly as px
