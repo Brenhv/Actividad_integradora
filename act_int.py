@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 #import plotly as px
-from bokeh.plotting import figure
+#from bokeh.plotting import figure
 import matplotlib.pyplot as plt
 import time
 import PIL as Image
